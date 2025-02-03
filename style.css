@@ -137,8 +137,8 @@ a{
     }
 
     .chesse-title h5{
-        margin-left: 20%;
-        font-size: 15px;
+        position: absolute;
+        margin-left: 10%;
     }
 
     .chesse-title-2{
@@ -148,6 +148,7 @@ a{
     .chesee-title-2 .chesee-img{
         width: 170%;
         margin-left: 60%;
+        margin-top: 130%;
     }
 
     .chesee-title-2 h5{
